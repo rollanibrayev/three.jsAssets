@@ -1,3 +1,4 @@
+```
 remove single line comments
 \n\s*//.*
 \n
@@ -5,3 +6,4 @@ remove single line comments
 remove empty lines
 \n{2,}
 \n
+```
