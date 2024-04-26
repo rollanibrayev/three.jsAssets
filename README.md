@@ -1,12 +1,3 @@
-```javascript
-let precisionstring
-```
-```javascript
-( callback === null ) ? animation.stop() : animation.start();
-```
-```javascript
-setFlipSided( flipSided )
-```
 ```
 \n\s*//.*
 ```
@@ -18,6 +9,15 @@ setFlipSided( flipSided )
 ```
 ```
 \n
+```
+```javascript
+let precisionstring
+```
+```javascript
+( callback === null ) ? animation.stop() : animation.start();
+```
+```javascript
+setFlipSided( flipSided )
 ```
 ```javascript
 (expor=>{
