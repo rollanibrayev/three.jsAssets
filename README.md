@@ -1,6 +1,10 @@
 ```javascript
 let precisionstring
+```
+```javascript
 ( callback === null ) ? animation.stop() : animation.start();
+```
+```javascript
 setFlipSided( flipSided )
 ```
 ```
