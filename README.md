@@ -24,10 +24,10 @@ setFlipSided( flipSided )
 // framework code
 ```
 ```javascript
-(a=>{for(let b in a)expor[b]=a[b]})(
+(a=>{for(let b in a)exports[b]=a[b]})(
 ```
 ```javascript
-// exports {};
+// export {};
 // remove export word and semicolon at the end
 ```
 ```javascript
