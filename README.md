@@ -7,9 +7,6 @@
 ```
 ;\n
 ```
-```
-\n
-```
 ```javascript
 let precisionstring
 ```
