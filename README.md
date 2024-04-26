@@ -11,7 +11,7 @@
 let precisionstring
 ```
 ```javascript
-( callback === null ) ? animation.stop() : animation.start();
+( callback === null ) ? animation.stop() : animation.start()
 ```
 ```javascript
 setFlipSided( flipSided )
