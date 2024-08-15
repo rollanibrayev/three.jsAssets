@@ -20,9 +20,6 @@ let precisionstring
 (exports=>{
 ```
 ```javascript
-// framework code
-```
-```javascript
 (a=>{for(let b in a)exports[b]=a[b]})(
 ```
 ```javascript
