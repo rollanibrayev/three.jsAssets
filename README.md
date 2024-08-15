@@ -14,7 +14,7 @@ let precisionstring
 ( callback === null ) ? animation.stop() : animation.start()
 ```
 ```javascript
-setFlipSided( flipSided )
+( material.blending === NormalBlending && material.transparent === false )
 ```
 ```javascript
 (exports=>{
