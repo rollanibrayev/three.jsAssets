@@ -17,10 +17,10 @@ let precisionstring
 ( material.blending === NormalBlending && material.transparent === false )
 ```
 ```javascript
-(exports=>{
+;(exports=>{
 ```
 ```javascript
-(a=>{for(let b in a)exports[b]=a[b]})(
+;(a=>{for(let b in a)exports[b]=a[b]})(
 ```
 ```javascript
 export {}; // remove export word and semicolon at the end
