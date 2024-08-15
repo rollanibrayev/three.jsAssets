@@ -15,7 +15,6 @@ let precisionstring
 ```
 ```javascript
 setFlipSided( flipSided )
-    (
 ```
 ```javascript
 (exports=>{
