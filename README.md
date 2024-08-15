@@ -26,8 +26,7 @@ let precisionstring
 (a=>{for(let b in a)exports[b]=a[b]})(
 ```
 ```javascript
-// export {};
-// remove export word and semicolon at the end
+export {}; // remove export word and semicolon at the end
 ```
 ```javascript
 )})(THREE={})
